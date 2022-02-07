@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Navi
+Build-Jdk: 17
+Implementation-Title: SpringBootDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ram
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootDemo
+Created-By: Maven Integration for Eclipse
+
