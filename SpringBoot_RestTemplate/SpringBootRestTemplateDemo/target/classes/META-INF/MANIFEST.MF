@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Navi
+Build-Jdk: 17
+Implementation-Title: SpringBootRestTemplateDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ram
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRestTemplateDemo
+Created-By: Maven Integration for Eclipse
+
