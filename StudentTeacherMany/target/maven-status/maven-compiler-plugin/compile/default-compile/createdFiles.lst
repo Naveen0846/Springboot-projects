@@ -1,0 +1,14 @@
+org\Many\serviceimpl\ExamServiceImpl.class
+org\Many\controller\ManyToOneController.class
+org\Many\StudentTeacherManyApplication.class
+org\Many\service\StudentService.class
+org\Many\repository\StudentRepository.class
+org\Many\service\Teacherservice.class
+org\Many\service\ExamService.class
+org\Many\entity\StudentDetails.class
+org\Many\entity\TeacherDetails.class
+org\Many\repository\ExamRepository.class
+org\Many\serviceimpl\TeacherServiceImpl.class
+org\Many\serviceimpl\StudentServiceImpl.class
+org\Many\entity\ExamDetails.class
+org\Many\repository\TeacherRepository.class
